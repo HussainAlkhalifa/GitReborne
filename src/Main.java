@@ -8,7 +8,7 @@ public class Main {
 
         GitReCommand.commit(blobHash , "The birth of the first commit");
 
-        GitReCommand.log();
+        GitReCommand.log(); //test
 
     }
 }
